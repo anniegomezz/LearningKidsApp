@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@urql/core": "^5.0.6",
     "react-native-game-engine": "^1.2.0"
   }
 }
